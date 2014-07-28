@@ -10,5 +10,9 @@
     "less": "~1.7.*",
     "uglifyjs": "~2.3.6"
   },
-  "main": "index.html"
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matehackers/novo-site.git"
+  }
 }
